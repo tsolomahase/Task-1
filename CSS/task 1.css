@@ -105,7 +105,7 @@ margin-bottom: 20px;
 .clickbutton {
   text-align: center;
 }
-.button:hover {
+.clickbutton:hover {
   opacity: 0.6;
 }
 .footer {
